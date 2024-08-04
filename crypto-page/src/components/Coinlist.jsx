@@ -10,6 +10,7 @@ function Coinlist({ coins }) {
           <p>Coin</p>
           <p>Price</p>
           <p>24h</p>
+          <p>24h</p>
           <p className='lg:block hidden'>Volume</p>
           <p className='lg:block hidden'>Market Cap</p>
         </div>
